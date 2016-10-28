@@ -1,3 +1,7 @@
-body {
-	size: 2em;
+.jo-header {
+	background-color: #165c7d;
+}
+
+.jo-section-heads {
+	font: lighter;
 }
